@@ -4,12 +4,7 @@
 # FSIWsim
 
 ## Description
-
-<div class="figure" style="text-align: left">
-
-<img src="./Graphical_Abstract.png" alt="FSIWsim" width="35%" />
-
-<p class="caption">
+<img width="1946" height="784" alt="Abstract Graphic" src="https://github.com/user-attachments/assets/225446ab-3dc7-4842-b416-a5a391446528" />
 
 FSIWsim
 
